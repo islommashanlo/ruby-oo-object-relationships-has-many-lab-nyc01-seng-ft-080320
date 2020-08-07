@@ -20,8 +20,11 @@ class Author
     new_post.author = self
   end
 
+<<<<<<< HEAD
   def self.post_count
     Post.all.count
   end
+=======
+>>>>>>> 4289cd5f124e8a7d948853094ac3e3dc0d5ba23a
 
 end
